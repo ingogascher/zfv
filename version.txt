@@ -1,2 +1,2 @@
-versionCode=200
-versionName=0.2.0
+versionCode=202
+versionName=0.2.2
